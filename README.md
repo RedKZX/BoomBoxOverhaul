@@ -4,4 +4,8 @@ This mod overhauls the default BoomBox to include volume controls, infinite batt
 Compatiable with YoutubeBoombox by steven4547455
 Not checked any others.
 
-Henreh(RedKZX)
+Thanks for the downloads, any bugs/errors use the Github link or contact me on discorcd 'henreh.'
+
+Happy jamming :D
+
+Henreh
